@@ -1,0 +1,46 @@
+{
+	"projects": [
+		{
+			"name": "Climacity",
+			"description": "Consulta el clima y el rango en el que se encontrará la temperatura de tu ciudad o cualquier otra alrededor del mundo.",
+			"image": "climacity.png",
+			"alt": "Imagen del proyecto Climacity",
+			"url": "https://pandresvaldivia.github.io/Climacity/",
+			"repository": "https://github.com/pandresvaldivia/Climacity",
+			"testimony": {
+				"author": "Leonidas Esteban",
+				"position": "Cofundador y CEO de Climacity",
+				"photo": "user-leonidas.png",
+				"quote": "Elisa ha sido de gran ayuda para acelerar ciertos esfuerzos de desarrollo. Lo que nos hubiera llevado semanas solo les llevó días"
+			}
+		},
+		{
+			"name": "Nemium",
+			"description": "Conoce los conceptos básicos que debes saber en tu día a día como un desarrolador Frontend.",
+			"image": "nemium.png",
+			"alt": "Imagen del proyecto Nemium",
+			"url": "https://pandresvaldivia.github.io/Nemium/",
+			"repository": "https://github.com/pandresvaldivia/Nemium/",
+			"testimony": {
+				"author": "JASON LOPEZ",
+				"position": "CEO Prostore",
+				"photo": "user-marvol.png",
+				"quote": "Elisa ha superado mis expectativas desde el diseño hasta el desarrollo"
+			}
+		},
+		{
+			"name": "Clist CRM",
+			"description": "Crea, edita y elimina cuantos clientes desees estos se almacenaran en el navegador gracias a la API IndexedDB que almacena datos en formato JSON.",
+			"image": "clist-crm.png",
+			"alt": "Imagen del proyecto Clist CRM",
+			"url": "https://pandresvaldivia.github.io/Clist-CRM/",
+			"repository": "https://github.com/pandresvaldivia/Clist-CRM/",
+			"testimony": {
+				"author": "MARCO CORTEZ",
+				"position": "Clist CRM",
+				"photo": "user-netnet.png",
+				"quote": "Por primera vez en la historia de nuestra empresa, aparecimos en todas las plataformas en las que trabajamos"
+			}
+		}
+	]
+}
