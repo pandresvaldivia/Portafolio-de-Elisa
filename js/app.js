@@ -13,5 +13,5 @@ for (const section of $sections) {
 
 document.addEventListener(
 	'DOMContentLoaded',
-	ui.createProject('../../assets/json/projects.json')
+	ui.createProject('/assets/json/projects.json')
 );

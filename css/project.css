@@ -24,14 +24,15 @@
 		align-items: center;
 		display: flex;
 		gap: 29px;
-		padding-block: 80px;
+		padding-block-end: 80px;
+		padding-block-start: 80px;
 	}
 	.project-image,
 	.project-description {
 		flex: 1;
 	}
 
-	.project:nth-child(4n + 1) {
+	.project-container:nth-child(4n + 1) .project {
 		flex-direction: row-reverse;
 	}
 }
