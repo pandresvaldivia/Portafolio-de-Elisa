@@ -1,0 +1,33 @@
+.message {
+	text-align: center;
+	padding-block-end: 40px;
+	padding-block-start: 40px;
+	padding-inline-end: 16px;
+	padding-inline-start: 16px;
+}
+
+.message p {
+	font: var(--headline5);
+	margin-block-end: 40px;
+}
+
+.message p:first-child {
+	font-weight: 400;
+	margin-block-end: 34px;
+}
+
+.message i {
+	font-size: 65px;
+}
+
+@media screen and (min-width: 768px) {
+	.message {
+		padding-block-end: 200px;
+		padding-block-start: 200px;
+		padding-inline-end: 153px;
+		padding-inline-start: 153px;
+	}
+	.message p:first-child {
+		font: var(--message);
+	}
+}

@@ -1,0 +1,30 @@
+:root {
+	--fontBase: 'Oxygen', sans-serif;
+	--gradient: linear-gradient(135deg, #fad7a1 0%, #e96d71 100%);
+	--headline1: bold 95px/153.71px var(--fontBase);
+	--headline2: bold 59px/95.46px var(--fontBase);
+	--headline3: bold 48px/77.66px var(--fontBase);
+	--headline4: bold 34px/55.01px var(--fontBase);
+	--headline5: bold 24px/38.83px var(--fontBase);
+	--body1: 16px/25.89px var(--fontBase);
+	--body2: 14px/22.65px var(--fontBase);
+	--button: bold 14px/22.65px var(--fontBase);
+	--message: 300 34px/55.01px var(--fontBase);
+	--caption: 12px/19.42px var(--fontBase);
+	--testimony: bold 16px/25.89px var(--fontBase);
+	--black: #0f0a0a;
+	--green: #42e2b8;
+	--white: #ffffff;
+}
+
+body {
+	background: var(--gradient);
+	min-block-size: 100vh;
+	font: var(--body1);
+	color: var(--black);
+	margin: 0;
+}
+
+.section {
+	padding-block-start: 40px;
+}
