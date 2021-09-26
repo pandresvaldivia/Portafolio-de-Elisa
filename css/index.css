@@ -1,6 +1,5 @@
 :root {
 	--fontBase: 'Oxygen', sans-serif;
-	/* --gradient: linear-gradient(135deg, #fad7a1 0%, #e96d71 100%); */
 	--gradient: radial-gradient(
 			400px 400px at 0px 6%,
 			rgba(191, 53, 142, 0.5) 0%,

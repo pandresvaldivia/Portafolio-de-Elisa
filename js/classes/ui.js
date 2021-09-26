@@ -20,10 +20,18 @@ class UI {
 
 			$projects.appendChild(projectContainer);
 		}
-		console.log(projects);
 	}
 
-	createDescription({ name, description, image, alt, url, repository }) {
+	createDescription({
+		name,
+		description,
+		image,
+		height,
+		width,
+		alt,
+		url,
+		repository,
+	}) {
 		const projectDescription = document.createElement('div');
 		projectDescription.className = 'project';
 
@@ -32,6 +40,8 @@ class UI {
             <img
                 src="${this.imgPath + image}"
                 alt="${alt}"
+                height="${height}"
+                width=${width}
             />
         </div>
         <div class="project-description">
