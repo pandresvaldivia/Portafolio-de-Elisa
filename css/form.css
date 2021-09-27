@@ -15,6 +15,14 @@
 
 .input-container label {
 	padding-inline-start: 16px;
+	position: relative;
+}
+
+.input-container label span {
+	color: #da1414;
+	font-size: 13px;
+	position: absolute;
+	top: -2px;
 }
 
 .form input,
