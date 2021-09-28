@@ -34,7 +34,7 @@
 		flex: 1;
 	}
 
-	.project-container:nth-child(4n + 1) .project {
+	.project-container:nth-child(odd) .project {
 		flex-direction: row-reverse;
 	}
 }
