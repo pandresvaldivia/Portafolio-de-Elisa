@@ -1,19 +1,19 @@
 {
 	"projects": [
 		{
-			"name": "Climacity",
-			"description": "Consulta el clima y el rango en el que se encontrará la temperatura de tu ciudad o cualquier otra alrededor del mundo.",
-			"image": "climacity.png",
+			"name": "Sector 9",
+			"description": "Si estás buscando escribir tu nombre en la calle, entonces quieres una tabla de Sector Nine.",
+			"image": "sector9.png",
 			"height": "205.48",
 			"width": "343",
-			"alt": "Imagen del proyecto Climacity",
-			"url": "https://pandresvaldivia.github.io/Climacity/",
-			"repository": "https://github.com/pandresvaldivia/Climacity",
+			"alt": "Imagen del proyecto Sector 9",
+			"url": "https://pandresvaldivia.github.io/Sector-9/",
+			"repository": "https://github.com/pandresvaldivia/Sector-9/",
 			"testimony": {
 				"author": "Leonidas Esteban",
-				"position": "Cofundador y CEO de Climacity",
+				"position": "Cofundador y CEO de Sector 9",
 				"photo": "user-leonidas.png",
-				"alt": "Foto del Cofundador y CEO de Climacity",
+				"alt": "Foto del Cofundador y CEO de Sector 9",
 				"quote": "Elisa ha sido de gran ayuda para acelerar ciertos esfuerzos de desarrollo. Lo que nos hubiera llevado semanas solo les llevó días"
 			}
 		},
@@ -30,24 +30,24 @@
 				"author": "JASON LOPEZ",
 				"position": "CEO Prostore",
 				"photo": "user-marvol.png",
-				"alt": "Foto del Cofundador Y CEO Prostore",
+				"alt": "Foto del Cofundador Y CEO Nemium",
 				"quote": "Elisa ha superado mis expectativas desde el diseño hasta el desarrollo"
 			}
 		},
 		{
-			"name": "Clist CRM",
-			"description": "Crea, edita y elimina cuantos clientes desees estos se almacenaran en el navegador gracias a la API IndexedDB que almacena datos en formato JSON.",
-			"image": "clist-crm.png",
+			"name": "Netnet",
+			"description": "Netnet es una de las plataformas de entretenimiento con más ranking a nivel mundial.",
+			"image": "netnet.png",
 			"height": "536",
 			"width": "305.86",
-			"alt": "Imagen del proyecto Clist CRM",
-			"url": "https://pandresvaldivia.github.io/Clist-CRM/",
-			"repository": "https://github.com/pandresvaldivia/Clist-CRM/",
+			"alt": "Imagen del proyecto Netnet",
+			"url": "https://pandresvaldivia.github.io/Netnet/",
+			"repository": "https://github.com/pandresvaldivia/Netnet/",
 			"testimony": {
 				"author": "MARCO CORTEZ",
-				"position": "Clist CRM",
+				"position": "Netnet",
 				"photo": "user-netnet.png",
-				"alt": "Foto de Marco Cortez, trabajador de Clist CRM",
+				"alt": "Foto de Marco Cortez, trabajador de Netnet",
 				"quote": "Por primera vez en la historia de nuestra empresa, aparecimos en todas las plataformas en las que trabajamos"
 			}
 		}
